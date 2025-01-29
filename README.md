@@ -10,10 +10,12 @@ solution used: brute force and optimization
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/usj264/VsCodeCdc/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/usj264/VsCodeCdc/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/usj264/VsCodeCdc/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/usj264/VsCodeCdc/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/usj264/VsCodeCdc/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -24,5 +26,6 @@ solution used: brute force and optimization
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/usj264/VsCodeCdc/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/usj264/VsCodeCdc/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/usj264/VsCodeCdc/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
