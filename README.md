@@ -39,4 +39,8 @@ solution used: brute force and optimization
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/usj264/VsCodeCdc/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [2649-count-total-number-of-colored-cells](https://github.com/usj264/VsCodeCdc/tree/master/2649-count-total-number-of-colored-cells) |
 <!---LeetCode Topics End-->
