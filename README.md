@@ -13,6 +13,7 @@ solution used: brute force and optimization
 | [0049-group-anagrams](https://github.com/usj264/VsCodeCdc/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/usj264/VsCodeCdc/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/usj264/VsCodeCdc/tree/master/0485-max-consecutive-ones) |
+| [2308-divide-array-into-equal-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ solution used: brute force and optimization
 | [0049-group-anagrams](https://github.com/usj264/VsCodeCdc/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/usj264/VsCodeCdc/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/usj264/VsCodeCdc/tree/master/0242-valid-anagram) |
+| [2308-divide-array-into-equal-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
 |  |
 | ------- |
@@ -43,4 +45,12 @@ solution used: brute force and optimization
 |  |
 | ------- |
 | [2649-count-total-number-of-colored-cells](https://github.com/usj264/VsCodeCdc/tree/master/2649-count-total-number-of-colored-cells) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2308-divide-array-into-equal-pairs) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
