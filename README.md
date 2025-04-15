@@ -13,6 +13,7 @@ solution used: brute force and optimization
 | [0049-group-anagrams](https://github.com/usj264/VsCodeCdc/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/usj264/VsCodeCdc/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/usj264/VsCodeCdc/tree/master/0485-max-consecutive-ones) |
+| [2280-count-good-triplets-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
@@ -53,4 +54,28 @@ solution used: brute force and optimization
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2308-divide-array-into-equal-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2280-count-good-triplets-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
