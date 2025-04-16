@@ -78,4 +78,8 @@ solution used: brute force and optimization
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2280-count-good-triplets-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/usj264/VsCodeCdc/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
