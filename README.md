@@ -15,6 +15,7 @@ solution used: brute force and optimization
 | [0485-max-consecutive-ones](https://github.com/usj264/VsCodeCdc/tree/master/0485-max-consecutive-ones) |
 | [2280-count-good-triplets-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2308-divide-array-into-equal-pairs) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/usj264/VsCodeCdc/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ solution used: brute force and optimization
 | [0217-contains-duplicate](https://github.com/usj264/VsCodeCdc/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/usj264/VsCodeCdc/tree/master/0242-valid-anagram) |
 | [2308-divide-array-into-equal-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2308-divide-array-into-equal-pairs) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/usj264/VsCodeCdc/tree/master/2626-count-the-number-of-good-subarrays) |
 ## String
 |  |
 | ------- |
@@ -84,4 +86,8 @@ solution used: brute force and optimization
 | [0584-find-customer-referee](https://github.com/usj264/VsCodeCdc/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/usj264/VsCodeCdc/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/usj264/VsCodeCdc/tree/master/1908-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/usj264/VsCodeCdc/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
