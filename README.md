@@ -13,6 +13,7 @@ solution used: brute force and optimization
 | [0049-group-anagrams](https://github.com/usj264/VsCodeCdc/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/usj264/VsCodeCdc/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/usj264/VsCodeCdc/tree/master/0485-max-consecutive-ones) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/usj264/VsCodeCdc/tree/master/2626-count-the-number-of-good-subarrays) |
