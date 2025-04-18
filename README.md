@@ -29,6 +29,7 @@ solution used: brute force and optimization
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/usj264/VsCodeCdc/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/usj264/VsCodeCdc/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/usj264/VsCodeCdc/tree/master/0242-valid-anagram) |
 ## Sorting
