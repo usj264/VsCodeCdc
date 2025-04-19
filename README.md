@@ -17,6 +17,7 @@ solution used: brute force and optimization
 | [2280-count-good-triplets-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/usj264/VsCodeCdc/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ solution used: brute force and optimization
 | [0049-group-anagrams](https://github.com/usj264/VsCodeCdc/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/usj264/VsCodeCdc/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/usj264/VsCodeCdc/tree/master/0242-valid-anagram) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -62,6 +64,7 @@ solution used: brute force and optimization
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,4 +98,8 @@ solution used: brute force and optimization
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/usj264/VsCodeCdc/tree/master/2626-count-the-number-of-good-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
