@@ -13,6 +13,7 @@ solution used: brute force and optimization
 | [0049-group-anagrams](https://github.com/usj264/VsCodeCdc/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/usj264/VsCodeCdc/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/usj264/VsCodeCdc/tree/master/0485-max-consecutive-ones) |
+| [0797-rabbits-in-forest](https://github.com/usj264/VsCodeCdc/tree/master/0797-rabbits-in-forest) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/usj264/VsCodeCdc/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2308-divide-array-into-equal-pairs) |
@@ -25,6 +26,7 @@ solution used: brute force and optimization
 | [0049-group-anagrams](https://github.com/usj264/VsCodeCdc/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/usj264/VsCodeCdc/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/usj264/VsCodeCdc/tree/master/0242-valid-anagram) |
+| [0797-rabbits-in-forest](https://github.com/usj264/VsCodeCdc/tree/master/0797-rabbits-in-forest) |
 | [2308-divide-array-into-equal-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/usj264/VsCodeCdc/tree/master/2626-count-the-number-of-good-subarrays) |
 ## String
@@ -51,6 +53,7 @@ solution used: brute force and optimization
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/usj264/VsCodeCdc/tree/master/0797-rabbits-in-forest) |
 | [2649-count-total-number-of-colored-cells](https://github.com/usj264/VsCodeCdc/tree/master/2649-count-total-number-of-colored-cells) |
 ## Bit Manipulation
 |  |
@@ -102,4 +105,8 @@ solution used: brute force and optimization
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/usj264/VsCodeCdc/tree/master/2699-count-the-number-of-fair-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/usj264/VsCodeCdc/tree/master/0797-rabbits-in-forest) |
 <!---LeetCode Topics End-->
